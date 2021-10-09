@@ -1,0 +1,1 @@
+This is a GUI Application created using JFrame and Java Swing. It's main purpose is to caculate how much a user will need to contribute on a monthly basis to achieve a specific investment goal.
